@@ -8,3 +8,4 @@ requests>=2.2.1
 simplejson==3.8.0
 twython==3.4.0
 bokeh==0.12.4
+pandas==0.19.2
