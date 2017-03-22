@@ -1,7 +1,7 @@
 # Flask on Heroku
 
-This is a demo using Requests, simplejson, pandas and bokeh to plot stock prices from quandl website. 
+This is a demo using Requests, simplejson, pandas and bokeh to plot the related hashtag frequency from twitter.
 
-[Enter the stock ticker; click submit; see the last months close prices]
+[Enter a hashtag; click submit; see the barplot of the frequencies of related hashtags]
 
-[Enter the stock ticker; click submit; see the last months close prices]: <https://intense-tundra-68593.herokuapp.com/>
+[Enter a hashtag; click submit; see the barplot of the frequencies of related hashtags]: <https://arcane-crag-94913.herokuapp.com/>
